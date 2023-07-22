@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "name": "asdasdasd",
+      "author": "dasdasd",
+      "id": 3
+    },
+    {
+      "name": "asdasdas",
+      "author": "dasdasd",
+      "id": 4,
+      "description": "asdasdasdasdasd"
+    },
+    {
+      "name": "asdsad",
+      "author": "sadas",
+      "id": 5,
+      "description": "dsadasd"
+    }
+  ]
+}
